@@ -55,6 +55,9 @@ img {
 	border: 0;
 	-ms-interpolation-mode: bicubic;
 }
+.icons {
+	display: none;
+}
 #map_canvas img,
 .google-maps img,
 .gm-style img {
